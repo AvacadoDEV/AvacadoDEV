@@ -5,7 +5,7 @@ I'm an indie full-stack developer learning the way of Matrix. All coding project
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)](https://icons8.com/icon/39854/javascript)"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
