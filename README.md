@@ -1,7 +1,7 @@
 🏄‍♂️ Anup Rao
 Software Developer (/)
 
-I'm an indie full-stack developer learning the way of Matrix. I'm a eager beaver when it comes to learn new technogies and engaging concepts in digital world.
+I'm an indie full-stack developer learning the ways of Matrix. I'm a eager beaver when it comes to new technogies and engaging concepts in the digital world.
  
  
 ### 🧰 Languages and Tools
